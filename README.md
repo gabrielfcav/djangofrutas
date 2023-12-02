@@ -1,6 +1,6 @@
 # djangofrutas
 
-O projeto foi feito no replit com funções de lá então estou migrando aos poucos aqui para o GITHUB
+O projeto foi feito com a plataforma replit e a migração está sendo concluída.
 
 1 - TELA PRINCIPAL
 ![Captura de tela 2023-11-20 221247](https://github.com/gabrielfcav/djangofrutas/assets/128062524/495b0c4f-6492-4154-8095-98b965e66155)
